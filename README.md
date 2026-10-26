@@ -24,7 +24,7 @@ The Food Ordering App is a UI/UX design project focused on making it easy for us
 
 ### Complete UI Design
 
-[My Food-Ordering-App Design](Food-Ordering-App.png)
+[My Food-Ordering-App Design](/Food-Ordering-App.png)
 ### Figma Prototype
 
 --[View Food-Ordering-app in Figma](https://www.figma.com/design/HewObPQBMx2uFRYNqDSyr1/Major-Project-01?node-id=1669-162202&t=KhbtyOggcBrwr8Et-1)
